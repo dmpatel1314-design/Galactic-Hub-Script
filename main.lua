@@ -24,7 +24,7 @@ local Window = WindUI:CreateWindow({
     Title = "Galactic Hub",
     Author = "RealYoGalactic",
     Folder = "galactichub",
-    Icon = "sfsymbols:rocket",
+    Icon = "sfsymbols:applelogo",
     NewElements = true,
 
     OpenButton = {
